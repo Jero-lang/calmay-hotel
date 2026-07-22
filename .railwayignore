@@ -1,0 +1,17 @@
+/node_modules
+/.git
+/.vscode
+/tests
+/this logo
+.env.example
+.gitattributes
+.gitignore
+.editorconfig
+.npmrc
+README.md
+phpunit.xml
+postcss.config.js
+tailwind.config.js
+vite.config.js
+package-lock.json
+composer.lock
